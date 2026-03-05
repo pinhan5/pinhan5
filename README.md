@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 🔭 I’m currently working on CJCU
+- 🌱 I’m currently learning Avation and Maritime transportation Management
+- 💬 like kpop
+- 📫 How to reach me: 114b05801@mailst.cjcu.edu.tw
+- 😄  I’m interested in 追星
+  
 
 <!--
 **pinhan5/pinhan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
